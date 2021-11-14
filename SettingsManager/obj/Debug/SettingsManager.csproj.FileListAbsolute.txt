@@ -1,0 +1,6 @@
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\bin\Debug\SettingsManager.dll
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\bin\Debug\SettingsManager.pdb
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Debug\SettingsManager.csprojAssemblyReference.cache
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Debug\SettingsManager.csproj.CoreCompileInputs.cache
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Debug\SettingsManager.dll
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Debug\SettingsManager.pdb

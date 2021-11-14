@@ -1,0 +1,13 @@
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\bin\Debug\TestApp.exe.config
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\bin\Debug\TestApp.exe
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\bin\Debug\TestApp.pdb
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\bin\Debug\SettingsManager.dll
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\bin\Debug\SettingsManager.pdb
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.frmMain.resources
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.exe
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\TestApp\obj\Debug\TestApp.pdb

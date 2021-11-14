@@ -1,0 +1,5 @@
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\bin\Release\SettingsManager.dll
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\bin\Release\SettingsManager.pdb
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Release\SettingsManager.csproj.CoreCompileInputs.cache
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Release\SettingsManager.dll
+G:\Matias\ProgramsNET\C_Sharp\SettingsManager\SettingsManager\SettingsManager\obj\Release\SettingsManager.pdb
